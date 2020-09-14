@@ -30,7 +30,7 @@
         }
 
         @IBAction func OnButtonAction(_ sender: Any) {
-         view.backgroundColor = UIColor.white
+         view.backgroundColor = UIColor.blue
             LabelSwap.text = "ON"
             OnButton.backgroundColor = UIColor.white
             OnButton.setTitleColor(UIColor.white, for: .normal)
